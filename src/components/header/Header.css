@@ -18,3 +18,9 @@
     color: cyan;
 }
 
+@media screen and (max-width:700px){
+  .header {
+       display: flex;
+}
+    
+}
